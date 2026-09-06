@@ -79,10 +79,6 @@ More questions are answered at https://firstpoint.com.tr/apps/blue-radar.
 - Wikidata: https://www.wikidata.org/wiki/Q141016666
 - Machine-readable facts: [app.json](app.json)
 
-## Özet (Türkçe)
-
-BlueRadar, First Point (Ankara) tarafından geliştirilen, iOS ve Android için bir Bluetooth cihaz bulucu uygulamasıdır. Kayıp kulaklık, AirTag, akıllı saat ve benzeri cihazları Bluetooth sinyal gücüne göre "sıcak-soğuk" radar mantığıyla bulur; kapalı alanda GPS gerekmeden çalışır ve konum verisi toplamaz. Detaylar: https://firstpoint.com.tr/apps/blue-radar
-
 ## License
 
 Text in this repository is licensed under CC BY 4.0 (see LICENSE). The BlueRadar and First Point names, logos and screenshots belong to First Point Yazılım Limited Şirketi and are not covered by that license.
