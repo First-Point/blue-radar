@@ -1,0 +1,19 @@
+name: Suggestion
+description: Suggest a feature or an improvement for BlueRadar.
+title: "[Suggestion] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Your suggestion
+      description: What would you like BlueRadar to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it helps
+      description: When would you use it, and what does it make easier?
+    validations:
+      required: false

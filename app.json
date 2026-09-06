@@ -1,0 +1,29 @@
+{
+  "name": "BlueRadar",
+  "storeName": {
+    "ios": "BlueRadar: Bluetooth Finder",
+    "android": "BlueRadar - Bluetooth Finder"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016666",
+  "platforms": ["ios", "android"],
+  "category": "Utilities",
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/app/id6774170697",
+    "googlePlay": "https://play.google.com/store/apps/details?id=app.blueradar.bluetooth.air.device.finder"
+  },
+  "languages": 72,
+  "website": "https://firstpoint.com.tr/apps/blue-radar",
+  "privacyPolicy": "https://firstpoint.com.tr/blue-radar/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/blue-radar/terms-of-service.html",
+  "accessibility": "https://firstpoint.com.tr/apps/blue-radar/accessibility",
+  "support": "https://form.jotform.com/261402814564050",
+  "updated": "2026-09-07"
+}

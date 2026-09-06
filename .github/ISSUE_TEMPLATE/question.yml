@@ -1,0 +1,12 @@
+name: Question
+description: Ask how BlueRadar works or how to do something in the app.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What would you like to know about BlueRadar?
+    validations:
+      required: true

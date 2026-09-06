@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with BlueRadar
+    url: https://form.jotform.com/261402814564050
+    about: Use the feedback form. It reaches the team directly and lets you attach a screenshot.
+  - name: Email support
+    url: mailto:contact@firstpoint.com.tr
+    about: For account, privacy or store related questions.
