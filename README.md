@@ -22,7 +22,6 @@ BlueRadar is a Bluetooth device finder app for iOS and Android developed by Firs
 | Privacy policy | https://firstpoint.com.tr/blue-radar/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/blue-radar/terms-of-service.html |
 | Accessibility | https://firstpoint.com.tr/apps/blue-radar/accessibility |
-| Wikidata | https://www.wikidata.org/wiki/Q141016666 |
 
 ## What it does
 
@@ -76,7 +75,6 @@ More questions are answered at https://firstpoint.com.tr/apps/blue-radar.
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/app/id6774170697
 - Google Play: https://play.google.com/store/apps/details?id=app.blueradar.bluetooth.air.device.finder
-- Wikidata: https://www.wikidata.org/wiki/Q141016666
 - Machine-readable facts: [app.json](app.json)
 
 ## License
